@@ -5,7 +5,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" alt="LinkedIn Badge"/>
     </a>
     <a href="https://leetcode.com/Talyshinskiy">
-      <img src="https://leetcode.com/static/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="leetcode"/>
+      <img src="https://leetcode.com/static/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="leetcode" width="50% height="50%"/>
     </a>
    
   </div>
