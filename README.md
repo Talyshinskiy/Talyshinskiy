@@ -1,3 +1,5 @@
+---
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/wv1RNuvWMjQ10bzExO/giphy.gif" width="50%"/>
     <div id="badges">
@@ -59,8 +61,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talyshinskiy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-<div>
-  <img src="https://media.giphy.com/media/5EiRZJNR7cgZwqncwM/giphy-downsized-large.gif"/>
-</div>
+
 
 
