@@ -1,12 +1,7 @@
 <div id="header" align="center">
-  <img
-    src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
-    width="50%"
-  />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50%"/>
   <div id="badges">
-    <a href="https://t.me/Talyshinskiy">
-      <img src="https://img.shields.io/badge/Telegram-black?logo=telegram&logoColor=white&style=for-the-badge" alt="telegram"/>
-    </a>
+  
     <a href="https://leetcode.com/Talyshinskiy">
       <img src="https://img.shields.io/badge/Leetcode-black?logo=leetcode&logoColor=white&style=for-the-badge" alt="leetcode"/>
     </a>
