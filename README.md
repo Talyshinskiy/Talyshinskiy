@@ -60,7 +60,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 <div>
-  <img src="https://media.giphy.com/media/5EiRZJNR7cgZwqncwM/giphy-downsized-large.gif" width="100"/>
+  <img src="https://media.giphy.com/media/5EiRZJNR7cgZwqncwM/giphy-downsized-large.gif"/>
 </div>
 
 
