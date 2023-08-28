@@ -1,11 +1,11 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/4DEF84bYG2AAAAAd/stray-programming.gif" width="100%"/>
+  <img src="https://media.tenor.com/4DEF84bYG2AAAAAd/stray-programming.gif" width="50%"/>
   <div id="badges">
     <a href="https://linkedin.com/in/talyshinskiy">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://leetcode.com/Talyshinskiy">
-      <img src="https://images.velog.io/images/gandi0330/post/3ce85e2c-9626-42df-9e04-45620c3b4942/leetcode_button_icon_151892.png" alt="leetcode"/>
+      <img src="https://leetcode.com/static/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="leetcode"/>
     </a>
    
   </div>
