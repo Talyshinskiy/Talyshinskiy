@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50%"/>
+  <img src="https://media.giphy.com/media/wv1RNuvWMjQ10bzExO/giphy.gif" width="50%"/>
     <div id="badges">
     <a href="https://t.me/Talyshinskiy">
       <img src="https://img.shields.io/badge/Telegram-black?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram"/>
@@ -46,6 +46,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="github" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="git" width="40" height="40"/>&nbsp;  
+
+  
 </div>
 
 ---
