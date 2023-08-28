@@ -2,14 +2,14 @@
   <img src="https://media.tenor.com/4DEF84bYG2AAAAAd/stray-programming.gif" width="50%"/>
   <div id="badges">
     <a href="https://linkedin.com/in/talyshinskiy">
-      <img src="https://img.shields.io/badge/leetcode-black" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
     </a>
     <a href="https://leetcode.com/Talyshinskiy">
-      <img src="https://img.shields.io/badge/LinkedIn-blue" alt="leetcode"/>
+      <img src="https://img.shields.io/badge/Leetcode-black?logo=leetcode&logoColor=white&style=for-the-badge" alt="leetcode"/>
     </a>
    
   </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://Talyshinskiy.com/ghpvc/?username=Talyshinskiy&style=flat-square&color=black" alt=""/>
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
