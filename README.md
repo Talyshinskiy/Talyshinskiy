@@ -9,12 +9,9 @@
     </a>
    
   </div>
-  <img src="https://komarev.com/ghpvc/?username=Talyshinskiy&style=flat-square&color=red" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=talyshinskiy&style=flat-square&color=red" alt="talyshinskiy"/>
 
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+
 </div>
 
 
