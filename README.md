@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/4DEF84bYG2AAAAAd/stray-programming.gif" width="50%"/>
   <div id="badges">
     <a href="https://linkedin.com/in/talyshinskiy">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" alt="LinkedIn Badge"/>
     </a>
     <a href="https://leetcode.com/Talyshinskiy">
       <img src="https://leetcode.com/static/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="leetcode"/>
