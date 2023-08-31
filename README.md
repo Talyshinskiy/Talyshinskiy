@@ -10,6 +10,9 @@
     <a href="https://linkedin.com/in/talyshinskiy">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
     </a>
+      <a href="https://www.codewars.com/users/Talyshinskiy">
+      <img src="https://img.shields.io/badge/Сodewars-red?logo=Сodewars&logoColor=white&style=for-the-badge" alt="Сodewars Badge"/>
+    </a>
   </div>
 
   <img
