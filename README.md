@@ -14,11 +14,13 @@
       <img src="https://img.shields.io/badge/codewars-red?logo=codewars&logoColor=black&style=for-the-badge" alt="Сodewars Badge"/>
     </a>
   </div>
-  ![codewars](https://www.codewars.com/users/Talyshinskiy/badges/large)
+ 
   <img
     src="https://komarev.com/ghpvc/?username=talyshinskiy&style=flat-square&color=red"
     alt="talyshinskiy"
   />
+  
+   ![codewars](https://www.codewars.com/users/Talyshinskiy/badges/large)
 </div>
 
 ---
