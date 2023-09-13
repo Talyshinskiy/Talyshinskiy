@@ -19,6 +19,9 @@
     src="https://komarev.com/ghpvc/?username=talyshinskiy&style=flat-square&color=red"
     alt="talyshinskiy"
   />
+  
+   ![codewars](https://www.codewars.com/users/Talyshinskiy/badges/large)
+
 </div>
 
 ---
