@@ -33,8 +33,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I devote myself to teaching and reading technical articles.
 
-- :zap: Мy dream is to teach programming to children.
-
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-black?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Talyshinskiy)
 
 ---
