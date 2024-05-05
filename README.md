@@ -7,9 +7,9 @@
       <a href="https://leetcode.com/Talyshinskiy">
       <img src="https://img.shields.io/badge/Leetcode-black?logo=leetcode&logoColor=red&style=for-the-badge" alt="leetcode"/>
     </a>
-    <a href="https://linkedin.com/in/talyshinskiy">
+<!--     <a href="https://linkedin.com/in/talyshinskiy">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-    </a>
+    </a> -->
       <a href="https://www.codewars.com/users/Talyshinskiy">
       <img src="https://img.shields.io/badge/codewars-red?logo=codewars&logoColor=black&style=for-the-badge" alt="Сodewars Badge"/>
     </a>
